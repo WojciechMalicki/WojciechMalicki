@@ -1,6 +1,6 @@
 Hello World! :wave:
 
-I'm @Wojciech Malicki. I am a teacher and I really like learning and teaching others. I am trying to get to know the programming world, especially Python and algorithms. 
+I'm Wojciech Malicki. I am a teacher and I really like learning and teaching others. I am trying to get to know the programming world, especially Python and algorithms. 
 
 What I know and what I like:
 
